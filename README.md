@@ -23,4 +23,4 @@ Static site: `index.html`, `style.css`, `app.js`. Serve with any static server, 
 
 ## License
 
-© 2026 Teddy Aaron. All rights reserved. The code is public to view only. You may not copy, reuse, deploy or redistribute it without written permission. Sample images from the dataset above stay under CC BY 4.0. See [LICENSE](LICENSE).
+© 2026 Teddy Aaron Ventures LLC. All rights reserved. You may not copy, reuse, deploy or redistribute it without written permission. Sample images from the dataset above stay under CC BY 4.0. See [LICENSE](LICENSE).
