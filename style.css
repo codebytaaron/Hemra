@@ -310,3 +310,11 @@ td{white-space:nowrap}
 /* confirm step: keep the preview inside its card (overrides the old homepage #preview rule) */
 .confirm #preview{position:static;inset:auto;width:auto;height:auto;max-width:100%;max-height:420px;object-fit:contain;border-radius:10px;display:block;margin:0 auto}
 @media (max-width:520px){.confirm #preview{width:100%;max-height:320px}}
+.nav nav a{white-space:nowrap}
+@media (max-width:360px){
+  .nav{padding:0 12px}
+  .brand{font-size:23px}
+  .nav nav{gap:10px;font-size:12.5px}
+  .rhead{flex-wrap:wrap;gap:4px}
+}
+@media (max-width:520px){.sample-row .tip{display:none}}
