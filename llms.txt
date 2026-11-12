@@ -1,0 +1,22 @@
+# Hemra
+
+> Hemra is a free research and education tool that uses machine learning to compare a microscope image of a white blood cell to four learned cell types (eosinophil, lymphocyte, monocyte, neutrophil). It runs entirely in the web browser, so images are never uploaded. It is not a medical device and does not diagnose any condition.
+
+Website: https://hemra-research.vercel.app/
+Built by: Teddy Aaron (https://hemra-research.vercel.app/founder.html, https://teddyaaron.com)
+Owner: Teddy Aaron Ventures LLC
+Sister project: Cathra (https://www.cathra.dev), which compares ovarian ultrasound images to normal and abnormal patterns in the browser
+
+## Results (research results, not clinical performance)
+- 3,840 training images and 960 held-out test images (240 per class), from Acevedo et al. 2020 (CC BY 4.0).
+- 936 of 960 test images classified correctly (97.5%).
+- All figures are from images in the same dataset as the training data. Accuracy on images from other hospitals, stains, or microscopes has not been measured.
+
+## Intended use
+Research and education only. Not for diagnosis or any medical decision.
+
+## Pages
+- [Analyze a cell](https://hemra-research.vercel.app/tool.html)
+- [Research, results, lesson, and citation](https://hemra-research.vercel.app/research.html)
+- [Terms and disclaimer](https://hemra-research.vercel.app/terms.html)
+- [Founder](https://hemra-research.vercel.app/founder.html)
