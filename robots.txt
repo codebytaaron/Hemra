@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /model/
 
-Sitemap: https://hemra-research.vercel.app/sitemap.xml
+Sitemap: https://hemraresarch.teddyaaron.com/sitemap.xml

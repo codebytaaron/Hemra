@@ -1,6 +1,6 @@
 # Hemra · Blood Cell Pattern Research
 
-**Live:** https://hemra-research.vercel.app/
+**Live:** https://hemraresarch.teddyaaron.com/
 
 A free, browser-based tool that scores a microscope image of a white blood cell against four learned types: **Eosinophil, Lymphocyte, Monocyte, Neutrophil**. Runs entirely in the browser; nothing is uploaded.
 
@@ -8,7 +8,7 @@ A free, browser-based tool that scores a microscope image of a white blood cell 
 - Classifies a single white blood cell image as eosinophil, lymphocyte, monocyte or neutrophil, entirely in the browser.
 - Trained on pathologist-labelled images from the Acevedo et al. dataset (see Credits); 97.5% on 960 held-out test images from the same dataset.
 - All images come from one hospital, one stain and one analyzer, from donors without infection, blood disease or cancer. Expect lower accuracy elsewhere.
-- Details: [research page](https://hemra-research.vercel.app/research.html). Terms: [terms page](https://hemra-research.vercel.app/terms.html).
+- Details: [research page](https://hemraresarch.teddyaaron.com/research.html). Terms: [terms page](https://hemraresarch.teddyaaron.com/terms.html).
 
 ## Run
 Static site: `index.html`, `style.css`, `app.js`. Serve with any static server, e.g. `python3 -m http.server`.
